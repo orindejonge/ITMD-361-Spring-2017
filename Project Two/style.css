@@ -1,1 +1,23 @@
-
+ body{
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  background-image: url(http://www.clipartkid.com/images/276/paper-background-9ikDzF-clipart.jpg);
+  }
+  header{
+    text-align: center;
+    text-transform: uppercase;
+    background-size: cover;
+    background: 
+  }
+  h1{
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: #ff0032;
+    margin: 60px 0 0 0;
+  }
+  li{
+  display: 
+  padding: 0px 10px 0px 10px;
+  }
